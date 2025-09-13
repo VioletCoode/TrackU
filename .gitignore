@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore build and dist folders
+build/
+dist/
+
+# Ignore PyInstaller spec file
+*.spec
+
+# Ignore CSV if you don’t want it on GitHub
+usage_data.csv
